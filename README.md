@@ -2,10 +2,6 @@
 
 A real time emergency communication system built with the **MERN stack** . Designed to work **completely offline** over a local network (no internet required).
 
-
-
----
-
 ## Features
 
 
@@ -15,10 +11,6 @@ A real time emergency communication system built with the **MERN stack** . Desig
 - **Typing indicators** — see when other users are typing in real time
 - **Offline-first design** — works entirely on a local network (Wi-Fi hotspot, LAN, USB tethering)
 - **Real-time messaging** — instant communication via Socket.io WebSockets
-
-
----
-
 
 ## Setup Instructions
 
