@@ -109,7 +109,7 @@ One device creates a **Wi-Fi Hotspot** and all other devices connect to it. The 
    ipconfig
    ```
 
-   Look for the **IPv4 Address** under the hotspot adapter (e.g., `192.168.43.x`)
+   Look for the **IPv4 Address** 
 
 6. **On every device**, open a browser and go to:
 
@@ -128,6 +128,6 @@ One device creates a **Wi-Fi Hotspot** and all other devices connect to it. The 
 
 ### Example Scenario
 
-> A rescue team arrives at a disaster zone with no cell service. One member turns on their phone's hotspot. A laptop connected to the hotspot runs DisasterNet. All team members connect their phones to the same hotspot and open the app in their browser. They coordinate in real time — no internet required.
+> A rescue team arrives at a disaster zone with no cell service. One member turns on their phone's hotspot. A laptop connected to the hotspot runs DisasterNet. All team members connect their phones to the same hotspot and open the app in their browser. They coordinate in real time (no internet required).
 
 ---
