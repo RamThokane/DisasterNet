@@ -5,12 +5,12 @@ A real time emergency communication system built with the **MERN stack** . Desig
 ## Features
 
 
-- **Real-time messaging** — instant communication via Socket.io WebSockets
-- **File sharing** — send images, documents, audio, video, and archives (up to 50 MB) with inline preview
-- **Multiple chat rooms** — create and join separate channels for organized communication
-- **Typing indicators** — see when other users are typing in real time
-- **Offline-first design** — works entirely on a local network (Wi-Fi hotspot, LAN, USB tethering)
-- **Real-time messaging** — instant communication via Socket.io WebSockets
+- **Real-time messaging** 
+- **File sharing** 
+- **Multiple chat rooms** 
+- **Typing indicators** 
+- **Offline-first design** 
+- **Real-time messaging** 
 
 ## Setup Instructions
 
@@ -64,15 +64,6 @@ npx vite --host 0.0.0.0
 > The `--host` flag exposes the app on your local network so other devices can connect.
 
 
-### Supported File Types
-
-| Category  | Types                                          |
-| --------- | ---------------------------------------------- |
-| Images    | JPEG, PNG, GIF, WebP, SVG                      |
-| Documents | PDF, DOC, DOCX, XLS, XLSX, PPT, PPTX, TXT, CSV |
-| Audio     | MP3, WAV, OGG                                  |
-| Video     | MP4, WebM, OGG                                 |
-| Archives  | ZIP, RAR, GZIP                                 |
 
 ### How It Works
 
