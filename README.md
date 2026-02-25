@@ -10,7 +10,11 @@ A real time emergency communication system built with the **MERN stack** . Desig
 - **Multiple chat rooms** 
 - **Typing indicators** 
 - **Offline-first design** 
-- **Real-time messaging** 
+- **Real-time messaging**
+
+### Example Scenario
+
+> A rescue team arrives at a disaster zone with no cell service. One member turns on their phone's hotspot. A laptop connected to the hotspot runs DisasterNet. All team members connect their phones to the same hotspot and open the app in their browser. They coordinate in real time (no internet required).
 
 ## Setup Instructions
 
@@ -109,8 +113,6 @@ One device creates a **Wi-Fi Hotspot** and all other devices connect to it. The 
 - Backend `.env` must have `CLIENT_URL=*`
 - Works with: **Wi-Fi hotspot, Ethernet LAN, USB tethering**
 
-### Example Scenario
 
-> A rescue team arrives at a disaster zone with no cell service. One member turns on their phone's hotspot. A laptop connected to the hotspot runs DisasterNet. All team members connect their phones to the same hotspot and open the app in their browser. They coordinate in real time (no internet required).
 
 ---
